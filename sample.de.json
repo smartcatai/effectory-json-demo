@@ -1,0 +1,46 @@
+{
+   "shell" : {
+      "projects" : "Projekte",
+      "home" : "Home\/Home\/Home\/Home\/Home\/Home\/Home\/Home\/Home",
+      "analytics" : "Analytik",
+      "help" : {
+         "help-button" : "Hilfe &amp; Lernen",
+         "onboarding" : {
+            "title" : [
+               "Wir stellen vor: {{surveyProviderPortalName}}!",
+               "Mitarbeiterdaten importieren",
+               "Ihre Projekte und Umfragen"
+            ],
+            "heading" : "Feature Guide"
+         },
+         "support" : {
+            "heading" : "Unterstützen",
+            "title" : "Hilfeartikel"
+         }
+      },
+      "dismiss" : "Ablehnen",
+      "notification" : {
+         "http-error" : {
+            "400" : "Hmm, sieht so aus, als wäre etwas schief gelaufen. Versuchen Sie es später noch einmal",
+            "401" : "Authentifizierung kann nicht abgeschlossen werden. Bitte aktualisieren Sie die Seite",
+            "403" : "Sie haben keinen Zugriff auf diese Seite",
+            "404" : "Sie können nicht finden, wonach Sie suchen",
+            "500" : "Ups! Etwas ist auf unserer Seite schief gelaufen",
+            "503" : "Wir können keine Verbindung zum Server herstellen",
+            "general" : "Ups! Etwas ist schief gelaufen. Versuchen Sie es später noch einmal"
+         }
+      },
+      "unauthorized-title" : "Sie haben keinen Zugriff auf diese Seite",
+      "back-to-homepage" : "Zurück zur Startseite",
+      "contact-helpdesk" : "Bitte <a href=\"https:\/\/support.effectory.com\" target=\"_blank\">wenden Sie sich an unseren Helpdesk<\/a>, wenn Sie Hilfe benötigen",
+      "minutes-ago" : "Vor {{minutes}} Minuten",
+      "months-ago" : "Vor {{months}} Monaten",
+      "onboarding" : {
+         "home" : {
+            "heading" : [
+               "Willkommen bei {{surveyProviderPortalName}}!"
+            ]
+         }
+      }
+   }
+}

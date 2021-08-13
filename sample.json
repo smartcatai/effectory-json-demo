@@ -1,0 +1,47 @@
+{
+  "shell": {
+    "projects": "Projects",
+    "home": "Home",
+    "analytics": "Analytics",
+    "help": {
+      "help-button": "Help & Learn",
+      "onboarding": {
+        "title": [
+          "Introducing {{surveyProviderPortalName}}!",
+          "Importing employee data",
+          "Your projects and surveys"
+        ],
+        "heading": "Feature guide"
+      },
+      
+      "support": {
+        "heading": "Support",
+        "title": "Help articles"
+      }
+    },
+   "dismiss": "Dismiss",
+    "notification": {
+      "http-error": {
+        "400": "Hmm, looks like something went wrong. Try again later",
+        "401": "Unable to complete authentication. Please refresh the page",
+        "403": "You do not have access to this page",
+        "404": "Can't find what you're looking for",
+        "500": "Oops! Something went wrong on our end",
+        "503": "We can't connect to the server",
+        "general": "Oops! Something went wrong. Try again later"
+      }
+    },
+    "unauthorized-title": "You do not have access to this page",
+    "back-to-homepage": "Back to homepage",
+    "contact-helpdesk": "Please <a href=\"https://support.effectory.com\" target=\"_blank\">contact our helpdesk</a> if you need assistance",
+    "minutes-ago": "{{minutes}} minutes ago",
+    "months-ago": "{{months}} months ago",
+    "onboarding": {
+      "home": {
+        "heading": [
+          "Welcome to {{surveyProviderPortalName}}!"
+        ]
+      }
+    }
+ }
+}
